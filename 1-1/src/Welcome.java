@@ -5,7 +5,7 @@ public class Welcome {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Welcome!!");
-		System.out.println("ÀÚ¹Ù ¼¼°è·Î ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù.");
+		System.out.println("ìë°” ì„¸ê³„ë¡œ ì˜¤ì‹  ê²ƒì„ í™˜ì˜í•©ë‹ˆë‹¤.");
 
 	}
 
